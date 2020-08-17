@@ -169,7 +169,7 @@ hr.socket{
   width: 100%;
 }
 
-/*---- Media Queries ---*/
+/*---- Media Queries ---*
 
 @media (max-width: 575px){
   .carousel-caption h1{
@@ -193,7 +193,8 @@ hr.socket{
     font-size: 1rem;
   }
 }
-/*============ BOOTSTRAP BREAK POINTS:
+!------/
+*============ BOOTSTRAP BREAK POINTS:
 
 Extra small (xs) devices (portrait phones, less than 576px)
 No media query since this is the default in Bootstrap
